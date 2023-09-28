@@ -1,0 +1,46 @@
+body{
+    background-image:url("./selva4.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-md{
+    margin-top: 15%;
+    background-color:seagreen;
+    padding: 3%;
+
+}
+
+.container-md legend 
+{
+    font-family: Tahoma;
+    color: whitesmoke;
+}
+
+.form-outline label
+{
+    color:whitesmoke;
+}
+
+.form-check-label{
+    color:whitesmoke;
+}
+
+.btn{
+    color:yellow;
+}
+
+#form1Example3
+{
+    background-color: gold;
+    
+}
+
+a{
+    color:gold;
+}
+#boton{
+    background-color: gold;
+    color:darkgreen;
+
+}
